@@ -2,5 +2,5 @@
 GUI nodes visualisation for Eve Online
 
 # Requirements
-- pymem
+- [pymem](https://github.com/srounet/Pymem)
 - pyqt5
